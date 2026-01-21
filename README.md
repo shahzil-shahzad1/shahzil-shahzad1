@@ -1,4 +1,4 @@
-![logo](https://github.com/shahzil-shahzad1/shahzil-shahzad1/blob/main/banner.png)
+![logo](https://github.com/shahzil-shahzad1/shahzil-shahzad1/blob/main/logo.png)
 # 💫 About Me:
 Hi, my name is Shahzil Shahzad and I am still studying in college. <br>I am experienced Full Stack Developer having experience of more<br> than 2 years in it. I have experience in MERN Stack, Tailwind Css, <br>Bootstrap, Next.js and Three.js. I live in Lahore, Pakistan and <br>according to my experience I am fit to serve for a role of Full<br> Stack Developer.
 
