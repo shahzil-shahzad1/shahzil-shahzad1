@@ -1,6 +1,6 @@
 ![logo](https://github.com/shahzil-shahzad1/shahzil-shahzad1/blob/main/logo.png)
 # About Me:
-Well, Hi, here is  Shahzil Shahzad. <br> A documentation learned Full Stack Developer having 3+ years experience in creating apps that solve real world problems. Start from creating games and then with time evolve to real world apps. Expertise in Stacks like PERN, MERN and MEAN. Actually the choice of stack depends on app. So evolutoin is necessary.<br>Stil working as a freelancer and as the part of growing tech company Largify Solutions. <br>Also I am the student of Cybersecurity and learning how to keep your apps secure, payments durable and buckets unaccessible in this era. <br> So Thank you for reading <br><br>
+Well, Hi, here is  Shahzil Shahzad. <br> A documentation learned Full Stack Developer having 3+ years experience in creating apps that solve real world problems. Start from creating games and then with time evolve to real world apps. Expertise in Stacks like PERN, MERN and MEAN. Actually the choice of stack depends on app. So evolutoin is necessary.<br>Stil working as a freelancer and as the part of growing tech company Largify Solutions. <br>Also I am the student of Cybersecurity and learning how to keep your apps secure, payments durable and buckets unaccessible in this era. <br> Thank you for reading & Good Bye. <br><br>
 
 
 ## Socials:
