@@ -16,7 +16,5 @@ Well, Hi, here is  Shahzil Shahzad. <br> A documentation learned Full Stack Deve
 ### Quote
 <p align="left"><b >“Development is easy, but choosing a right stack that's a different story. ”</b></p>
 
----
-[![](https://visitcount.itsvg.in/api?id=shahzil-shahzad1&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
